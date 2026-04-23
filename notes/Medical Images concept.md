@@ -19,7 +19,7 @@ X-rays passes through low-density materials such as soft-tissue, wood, glass but
 This modality allows us to view X-rays images in real time. They make use of continuous X-rays to produce real-time moving images of internal structures.
 
 ## CT scans
-CT scans uses X-rays taken from multiplr angles arounf the body. These projections are therefore processesd using reconstruction algorithms to generate cross sectional images of the body. The X-ray tube rotates 360 degrees around the body allowing systems to capture data from different angles and build a detailed internal view.
+CT scans uses X-rays taken from multiple angles around the body. These projections are therefore processesd using reconstruction algorithms to generate cross sectional images of the body. The X-ray tube rotates 360 degrees around the body allowing systems to capture data from different angles and build a detailed internal view.
 
 ## MRI (Magnetic Resonance Imaging)
 MRI has similar appearance to that of a CT scanner but MRI mitigates the dangers associated with x-rays because it does not make use of ionizing radiation.
@@ -33,7 +33,7 @@ Ultrasound makes use of high frequency sound waves and interacts with the body t
 
 ## NUCLEAR MEDICINE
 ## Radio isotopes
-Radio isotopes are a special type of radioactive element that emits radiation. They are used to assess the organ function and diagnosis disease.
+Radio isotopes are a special type of radioactive element that emits radiation. They are used to assess the organ function and diagnose diseases.
 The radioisotopes is absorbed by the body and the concentration of the radioactivity which is called the hotspot is viewed by a gamma camera.
 This camera builds up different points of which the radiation is emitted and the image produced is enhanced by the computer to produce a diagnostic image.
 
