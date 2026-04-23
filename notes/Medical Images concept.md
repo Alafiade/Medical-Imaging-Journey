@@ -13,7 +13,7 @@ Medical Imaging is a term that allows the use of different techniques also calle
  ## X-RAYS
 X-rays are formed in the x-ray tube when high-speed electrons are accelerated from cathode and collide with the tungsten target.
 They pass through materials and get absorbed, the amount of absorbtion is related to the density of the material.
-X-rays passes through low-density materials such as soft-tissue, wood, glass but less easily through dense materials such as bone&lead.
+X-rays passes through low-density materials such as soft-tissue, wood, glass but less easily through dense materials such as bone & lead.
 
  ## FLOUROSCOPY
 This modality allows us to view X-rays images in real time. They make use of continuous X-rays to produce real-time moving images of internal structures.
